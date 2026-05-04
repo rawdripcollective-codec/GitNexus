@@ -47,7 +47,7 @@
     "remark-gfm": "^4.0.1",
     "sigma": "^3.0.2",
     "tailwindcss": "^4.1.18",
-    "uuid": "^13.0.0",
+    "uuid": "^14.0.0",
     "vite-plugin-top-level-await": "^1.6.0",
     "vite-plugin-wasm": "^3.5.0",
     "web-tree-sitter": "^0.20.8",
